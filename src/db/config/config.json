@@ -1,0 +1,23 @@
+{
+  "development": {
+    "username": "postgresqlUser",
+    "password": "password",
+    "database": "resume_ai_builder",
+    "host": "127.0.0.1",
+    "dialect": "postgres"
+  },
+  "test": {
+    "username": "postgresqlUser",
+    "password": "password",
+    "database": "resume_ai_builder",
+    "host": "127.0.0.1",
+    "dialect": "postgres"
+  },
+  "production": {
+    "username": "postgresqlUser",
+    "password": "password",
+    "database": "resume_ai_builder",
+    "host": "127.0.0.1",
+    "dialect": "postgres"
+  }
+}
